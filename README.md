@@ -2,7 +2,7 @@
   <img src="6 Assets/Banner.png" width="100%">
 </p>
 
-# 🎬 Data-Driven Film Acquisition Strategy
+# 🎬 Film Acquisition Strategy for Optimal Return
 
 *A predictive modeling and business rule framework to help levelFILM pick movies with the highest ROI using internal and external data.*
 
